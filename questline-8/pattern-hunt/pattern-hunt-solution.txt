@@ -1,0 +1,17 @@
+the given pattern is:
+2 , 6 , 12 , 20 ,...
+
+the next two terms of the pattern is 30 and 42 , so the pattern becomes:
+2 , 6 , 12 , 20 , 30 , 42 ,...
+
+EXPLANATION:
+in the question we can see that each time a new element is added the common difference increases by 2...
+6 - 2 = 4
+12 - 6 = 6 (4+2)
+20 - 12 = 8 (6+2)
+
+so the next element which is being added with 20 should give a common difference 10=(8+2) ,so it is 30
+30 - 20 = 10 (8+2)
+in the same way the next element which is to be added with 30 should give common difference 12=(10+2)
+so it is 42
+42 - 30 = 12 (10+2)
