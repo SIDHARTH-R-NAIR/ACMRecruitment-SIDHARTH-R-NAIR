@@ -1,0 +1,22 @@
+In the second line of code changed '-9999999' to float('-inf') to avoid any user input smaller than
+'-9999999'
+
+changed line 18 completely
+gave functon call before print statement so as to add the following blocks of code:
+
+an if block which:
+prints 'not enough elements' if the user enters less than 2 numbers 
+
+an elif block which:
+checks if the user has entered the correct number of elements as specified in 'n'...
+if the user has not entered the correct number of elements, then it will give a message instead of output.
+
+and an else block which will give the correct output if the user enters the correct number of elements
+and has entered more than 2 elements
+
+changed the 9th line of code to:
+elif num>second and num!=largest:
+this was done so as to avoid the case where repeated values are entered and now:
+it returns float('-inf') as output 
+
+added another elif block in last blocks of codes describing what to print if the output is float('-inf')
