@@ -1,0 +1,15 @@
+step-1. farmer takes the goat with him to other side, wolf doesn't eat cabbage as well.
+
+step-2. farmer comes back alone.
+
+step-3. farmer takes the wolf to other side, cabbage left alone and wolf doesn't eat goat when 
+        farmer is present there (there is no logical solution otherwise).
+
+step-4. farmer brings the goat back and drops it off the boat.
+
+step-5. farmer picks up the cabbage and moves to the other side.
+
+step-6. farmer returns back alone.
+
+step-7. farmer takes the goat to the other side.
+
