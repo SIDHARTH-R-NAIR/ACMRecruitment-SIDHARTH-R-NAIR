@@ -1,0 +1,15 @@
+Enter into the room with the three switches
+
+Turn ON the first switch and stay in that room for 5 to 10 minutes...
+This will heat the BULB if it is connected to the first switch
+
+Now Turn OFF the first switch and Turn On the second switch, keep the third switch untouched
+After you Turned ON the second switch, quickly enter the room with the bulb...
+
+if u find that the BULB is actually glowing and is ON , then it is connected to the SECOND SWITCH.
+
+if the BULB is OFF but it is still warm when u touch it, then it is connected to the FIRST SWITCH.
+(since we left the first switch turned on for a couple of minutes, the BULB became warm)
+
+if the BULB is OFF and also cold when u touch it, then it is connected to the THIRD SWITCH.
+(since the switch was never touched, no change in bulb can be observed)
