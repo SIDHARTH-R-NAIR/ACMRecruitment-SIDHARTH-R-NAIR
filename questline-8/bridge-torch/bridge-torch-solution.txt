@@ -1,0 +1,20 @@
+let us call each person 1,2,7,10 based on the time they take to cross (in minutes)
+
+step-1. 1 and 2 crosses together...(time taken to cross = 2 minutes)
+
+step-2. 1 brings the torch back...(time taken = 1 minute)
+
+step-3. 7 and 10 crosses together...(time taken to cross = 10 minutes)
+
+step-4. 2 brings the torch back...(time taken = 2 minutes)
+
+step-5. 1 and 2 crosses together...(time taken = 2 minutes)
+
+total time taken = 2+1+10+2+2 = 17 minutes
+
+LOGIC
+
+The two faster people should travel back and forth to save time
+
+the two slower ones should be sent together
+(if they are sent separately then the torch has to come back twice wasting even more time)
