@@ -1,0 +1,14 @@
+ITERATIVE METHOD
+         
+In this method the string is reversed using a loop...
+after entering the string, an iterating variable accesses the indices of the string in the reverse order
+each letter corresponding to its index is printed and concatenated to another empty string which becomes
+our reversed output string.
+
+
+RECURSIVE METHOD
+
+In this method the string is reversed using a function which calls itself again and again...
+each call takes the string without its first letter and reverses it and adds the first letter at the end...
+this process is repeated until only one letter is left and then the reversed string is formed back step by
+step. 
