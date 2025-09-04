@@ -1,0 +1,14 @@
+# ARRAY - ROTATION
+
+The following question asks to rotate the integers in a array or lists to k steps and display the output...
+
+In the first 4 lines of code ,we input and display the original array and the number of steps it should 
+be rotated...
+in the 5th line of code we determine the length of the array..
+in the 6th line its given "k=k%n" it is given so as to get the number of steps in a situation where k>n,
+the number of steps in such a situation will actually be the remainder of k and n.
+
+nums[:]=nums[k:]+nums[:k] -> this step rotates our array to k steps...
+it changes the list in such a way that k elements from the beginning are rotated and put in the end
+
+finally the rotated array is printed
